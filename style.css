@@ -190,13 +190,13 @@ h1 {
     color: #3d30a2;
 }
 .carousel-item:nth-child(4) .central h2{
-    color: #17594A;
+    color: #ed7d31; 
 }
 .carousel-item:nth-child(5) .central h2{
     color: #1f4172;
 }
 .carousel-item:nth-child(6) .central h2{
-    color: #ed7d31;
+    color: #17594A;
 }
 
 .conteiner-cards {
