@@ -48,7 +48,7 @@ header .nav-left img{
 
 .nav-left h3 {
   font-size: 2em;
-  font-family: fonte;
+  font-family: Fonte;
   
 }
 
@@ -296,12 +296,12 @@ margin-left: 15%;
 }
 
 @font-face {
-  font-family: fonte;
-  src: url(fonte/PetrovSans-Black.ttf);
+  font-family: Fonte;
+  src: url(Fonte/PetrovSans-Black.ttf);
 }
 
 h1 {
-  font-family: fonte;
+  font-family: Fonte;
   font-size: 1em;
 }
 

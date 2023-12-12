@@ -8,7 +8,7 @@ body {
 
 
 @font-face {
-    font-family: fonte;
+    font-family: Fonte;
     src: url(Fonte/petrov_sans/PetrovSans-Black.ttf);
 }
 
@@ -24,26 +24,22 @@ p{
 h2{
     font-size: 2.2em;
     font-weight: bold;
-    font-family: fonte;
+    font-family: Fonte;
   }
 
 h3 {
     font-size: 1.6em;
-    font-family: fonte;
+    font-family: Fonte;
   }
 
 h1{
-    font-family: fonte;
+    font-family: Fonte;
   }
 
 h3 {
     font-size: 1.6em;
 }
 
-@font-face {
-    font-family: fonte;
-    src: url(fonte/PetrovSans-Black.ttf);
-  }
 
 /*------------------Formatações Gerais-----------------*/
 
