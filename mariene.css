@@ -41,7 +41,9 @@ header .nav-left {
   align-items: center;
 }
 header .nav-left img{
-  margin: -0.3% 0%;
+  width: 90px;
+  height: 90px;
+  margin: 1% 0%;
 }
 
 .nav-left h3 {
